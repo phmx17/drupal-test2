@@ -1,0 +1,5 @@
+name: 'my first custom drupel model'
+type: module
+core_version_requirement: ^9
+description: 'This is my first exciting module. Prepare to be amazed!'
+package: custom
